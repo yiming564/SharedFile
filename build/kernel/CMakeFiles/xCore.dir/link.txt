@@ -1,0 +1,1 @@
+/usr/bin/clang  -O0 -ffreestanding -mno-red-zone -nostdlib -nostartfiles -mcmodel=large -m64 -g -fuse-ld=lld -ffreestanding -nostdlib -Wl,-T,/home/yiming564/src/SharedFile/kernel/kernel.lds CMakeFiles/xCore.dir/init/entry32.asm.o -o xCore 

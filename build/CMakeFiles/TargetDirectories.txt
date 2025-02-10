@@ -1,0 +1,7 @@
+/home/yiming564/src/SharedFile/build/CMakeFiles/edit_cache.dir
+/home/yiming564/src/SharedFile/build/CMakeFiles/rebuild_cache.dir
+/home/yiming564/src/SharedFile/build/kernel/CMakeFiles/xCore.dir
+/home/yiming564/src/SharedFile/build/kernel/CMakeFiles/edit_cache.dir
+/home/yiming564/src/SharedFile/build/kernel/CMakeFiles/rebuild_cache.dir
+/home/yiming564/src/SharedFile/build/kernel/init/CMakeFiles/edit_cache.dir
+/home/yiming564/src/SharedFile/build/kernel/init/CMakeFiles/rebuild_cache.dir
